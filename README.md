@@ -1,0 +1,2 @@
+# 2022-10_GIT_LOCIE
+GIT tutorial@LOCIE
