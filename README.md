@@ -2,8 +2,8 @@
 18/10/2022
 
 
-- [ ] Introduction do GIT
-- [ ] Cloning a repository
+- [x] Introduction do GIT
+- [x] Cloning a repository
 - [ ] Work in a git repository
 - [ ] Make a commit
 - [ ] Push a commit 
