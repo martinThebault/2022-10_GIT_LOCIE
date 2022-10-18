@@ -10,3 +10,4 @@
 - [ ] Pull commits from a remote repository
 - [ ] Monitor changes in a file
 - [ ] Play all together !
+- [ ] LOL
